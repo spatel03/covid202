@@ -1,6 +1,6 @@
 ## Dr. Allen's Online Course Content for 547:202
 
-About this site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum mattis risus, et mollis nunc tincidunt vitae. Cras arcu magna, pharetra elementum tincidunt sit amet, finibus eu justo. Sed consectetur rutrum consequat. Nullam et nisl at lacus scelerisque porttitor. Mauris at est lectus. Praesent at odio odio. Sed et efficitur.
+This page contains some important details about how we will complete our semester in 547:202. Here are the links to individual weekly details:
 
 - Week 10 (Starting Mar 23): Getting (Re-)Started and Working with Data API
 - Week 11 (Starting Mar 30): Databases and Storing (a little bit of) data with `PickleDB`
@@ -10,18 +10,20 @@ About this site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
 - Week 15 (Starting Apr 27): Project Summaries
 - Beyond Week 15: Wrap Up and Final Project.
 
-### What Will We Do Each Week?
+Below are answers to some important questions that all students need to review right away.
+
+### What Will We Do Each Week, and When?
 
 Here is the plan for what you will do and what I will do _each week_ for the rest of the semester:
 
 Step | Who | When | What to do
 ---|---|---|---
-1 | Me | Weekend before a given week | Post "self-study questions" and "lecture" video content in streamable and downloadable formats. This will include responses to questions asked in the prior week.
+1 | Me | Weekend before a given week | Post "self-study questions" and video content for "lectures" in streamable and downloadable formats. This will include responses to questions asked in the prior week.
 2 | You | Before watching any video content | Review the weekly details and complete the items listed under _Start here this week._
 3  | You  | After completing the _Start here this week_ material | Download or stream the "lecture" video(s). Have a notepad (physical or digital) open while watching so you can jot down answers to the questions I ask in the video. You should also write down questions you have for me.
-4  | Me  | Mid-week or earlier |  Post a "coding practice" video with "starter code".
-5  | You  | Before the weekend | Follow along with the "coding practice" video. You should add to your notes and questions during this exercise.
-6  | You  | After watching both videos | Complete the "self-study questions" for this week. This will include the opportunity to post questions that came up at any point during the week.
+4  | Me  | Mid-week or earlier |  Post a coding exercise video with "starter code".
+5  | You  | Before the weekend begins | Follow along with the coding exercise video. You should add to your notes and questions during this exercise.
+6  | You  | After watching both videos | Complete the coding exercise and "self-study questions" for this week. This will include the opportunity to post questions that came up at any point during the week.
 
 ### How will grades be calculated?
 
@@ -46,7 +48,7 @@ A Totally Optional Final Exam  | See below | 0 points
 
 **Content-wise, what will be different in this version of the class?** The original plan for weeks 10-15 was to get you prepared to do a final project that uses Python to process data from the Web. That is still the goal! The difference is that there will be fewer major new concepts (e.g., UML and custom object- and data-modeling) and I have downsized the project and the remaining topics accordingly.
 
-**Does this mean I have to do work all week? My class was only on \[insert day\].** The timing and structure described above should make it reasonable to stretch out the work across a few days if you'd like to do that. Or, you can wait until I've posted the mid-week (or earlier) video -- at that point you'll have all the material you need to do the week's work.
+**Does this mean I have to do work all week? My class was only on \[insert day\].** The timing and structure described above should make it reasonable to stretch out the work across two days if you'd like to do that. Or, you can wait until I've posted the mid-week (or earlier) video -- at that point you'll have all the material you need to do the week's work.
 
 **Are there any real-time class meetings?** Nope.
 
