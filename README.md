@@ -1,6 +1,14 @@
 ## Dr. Allen's Online Course Content for 547:202
 
-About this site.
+About this site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum mattis risus, et mollis nunc tincidunt vitae. Cras arcu magna, pharetra elementum tincidunt sit amet, finibus eu justo. Sed consectetur rutrum consequat. Nullam et nisl at lacus scelerisque porttitor. Mauris at est lectus. Praesent at odio odio. Sed et efficitur.
+
+- Week 10 (Starting Mar 23): Getting (Re-)Started and Working with Data API
+- Week 11 (Starting Mar 30): Databases and Storing (a little bit of) data with `PickleDB`
+- Week 12 (Starting Apr 06): Preparing Data and CRUD Operations
+- Week 13 (Starting Apr 13): Beyond ETL and Creating Charts with `matplotlib`
+- Week 14 (Starting Apr 20): Project and Problems: Bringing it All Together
+- Week 15 (Starting Apr 27): Project Summaries
+- Beyond Week 15: Wrap Up and Final Project.
 
 ### Our Weekly Schedule
 
@@ -14,16 +22,6 @@ Step | Who | When | What to do
 4  | Me  | Mid-week or earlier |  Post a "coding practice" video with "starter code".
 5  | You  | Before the weekend | Follow along with the "coding practice" video. You should add to your notes and questions during this exercise.
 6  | You  | After watching both videos | Complete the "self-study questions" for this week. This will include the opportunity to post questions that came up at any point during the week.
-
-### Links to weekly details
-
-- Week 10 (Starting Mar 23): Getting (Re-)Started and Working with Data API
-- Week 11 (Starting Mar 30): Databases and Storing (a little bit of) data with `PickleDB`
-- Week 12 (Starting Apr 06): Preparing Data and CRUD Operations
-- Week 13 (Starting Apr 13): Beyond ETL and Creating Charts with `matplotlib`
-- Week 14 (Starting Apr 20): Project and Problems: Bringing it All Together
-- Week 15 (Starting Apr 27): Project Summaries
-- Beyond Week 15: Wrap Up and Final Project.
 
 ### Questions You Might Already Have
 
