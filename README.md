@@ -2,13 +2,12 @@
 
 This page contains some important details about how we will complete our semester in 547:202. Here are the links to individual weekly details:
 
-- Week 10 (Starting Mar 23): Getting (Re-)Started and Working with Data API
-- Week 11 (Starting Mar 30): Databases and Storing (a little bit of) data with `PickleDB`
-- Week 12 (Starting Apr 06): Preparing Data and CRUD Operations
-- Week 13 (Starting Apr 13): Beyond ETL and Creating Charts with `matplotlib`
-- Week 14 (Starting Apr 20): Project and Problems: Bringing it All Together
-- Week 15 (Starting Apr 27): Project Summaries
-- Beyond Week 15: Wrap Up and Final Project.
+- [Week 10](week-10.md) (Starting Mar 23): Getting (Re-)Started and Working with Data API
+- [Week 11](week-11.md) (Starting Mar 30): Databases and Storing (a little bit of) data with `PickleDB`
+- [Week 12](week-12.md) (Starting Apr 06): Preparing Data and CRUD Operations
+- [Week 13](week-13.md) (Starting Apr 13): Beyond ETL and Creating Charts with `matplotlib`
+- [Week 14](week-14.md) (Starting Apr 20): Project and Problems: Bringing it All Together
+- [Week 15 and beyond](week-15-and-beyond.md) (Starting Apr 27): Project Summaries, Wrap Up and Final Project.
 
 Below are answers to some important questions that all students need to review right away.
 
