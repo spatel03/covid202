@@ -10,9 +10,9 @@ About this site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
 - Week 15 (Starting Apr 27): Project Summaries
 - Beyond Week 15: Wrap Up and Final Project.
 
-### Our Weekly Schedule
+### What Will We Do Each Week?
 
-**What will we do each week?** Here is the plan for for what you will do and what I will do each week for the rest of the semester:
+Here is the plan for what you will do and what I will do _each week_ for the rest of the semester:
 
 Step | Who | When | What to do
 ---|---|---|---
@@ -23,9 +23,9 @@ Step | Who | When | What to do
 5  | You  | Before the weekend | Follow along with the "coding practice" video. You should add to your notes and questions during this exercise.
 6  | You  | After watching both videos | Complete the "self-study questions" for this week. This will include the opportunity to post questions that came up at any point during the week.
 
-### Questions You Might Already Have
+### How will grades be calculated?
 
-**How will grades be calculated.** Like this:
+Here is the updated grading calculation for the class.
 
 Assessment | Change (if any) | Value
 ---|---|---
@@ -34,9 +34,11 @@ Quiz 2: Basic Data Structures         | We will not do this quiz  | 0 points
 Quiz 3: Files, Databases, and the Web | We will not do this quiz  | 0 points
 Quiz 4: OOP Basics                    | We will not do this quiz  | 0 points
 Course Tasks and Worksheets           | Worth more points (see below)   | 450 points
-Student Evaluations and Reflections   |                           | 50 points
+Student Evaluations and Reflections   | No change                 | 50 points
 Final Project: Python Module Projects and Presentations | No change | 400 points
 A Totally Optional Final Exam  | See below | 0 points
+
+### Other Questions You Might Already Have
 
 **There's a Final Exam now?! Not cool, Professor Allen. Not cool at all.** Here's the deal: Many of you (I hope!) had been preparing to improve on your Quiz 1 grade by doing better on future quizzes. So I will give a _completely optional_ final exam covering the topics after Spring Break. I will use the average of this exam grade and your quiz 1 grade as a substitute for your quiz 1 grade. E.g., if you earned a 50% on the quiz and a 80% on the final, then your Quiz 1 grade will become (one second, I need to grab my calculator...) a 65%.
 
