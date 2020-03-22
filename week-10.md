@@ -13,7 +13,7 @@
 
 The space is set up with three default channels:
 
-      - The `coding-qa` channel is for coding-related Questions and Answers. This can be class-related, but it doesn't strictly have to be.
+  - The `coding-qa` channel is for coding-related Questions and Answers. This can be class-related, but it doesn't strictly have to be.
   - The `#random` channel is for random (but [SFW!](https://www.acronymfinder.com/Safe-for-Work-(website-links)-(SFW).html)) stuff you just feel like sharing.
   - The `#general` channel is for stuff that is neither coding-related nor random.
 
