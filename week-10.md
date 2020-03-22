@@ -1,19 +1,19 @@
-## Week 10: Getting (Re-)Started and Working with Data API
+# Week 10: Getting (Re-)Started and Working with Data API
 
-### What To Do This Week
+## What To Do This Week
 
-#### Before you watch the first weekly video:
+### Before you watch the first weekly video:
 
-**Read closely the [README page](README.md) page.** It describes some important details about how we will complete this class. Bookmark the page so you have quick and easy access to it.
+**Read closely the [README page](README.md).** It describes some important details about how we will complete this class. Bookmark the page so you have quick and easy access to it.
 
 **Join the 202 Support Slack Workspace using the link below.** Some quick items about how we will use Slack:
 
 - Official class announcements will be posted to Slack and will also be sent via email.
 - Office hours (for class and for meeting with me as Program Director) will be hosted in Slack, but there will also be a video conferencing platform for times where you want to chat with audio/video capabilities.
-- The space is set up with three default channels:
-- The `coding-qa` channel is for coding-related Questions and Answers. This can be class-related, but it doesn't strictly have to be.
-- The `#random` channel is for random (but [SFW!](https://www.acronymfinder.com/Safe-for-Work-(website-links)-(SFW).html)) stuff you just feel like sharing.
-- The `#general` channel is for stuff that is neither coding-related nor random.
+  - The space is set up with three default channels:
+  - The `coding-qa` channel is for coding-related Questions and Answers. This can be class-related, but it doesn't strictly have to be.
+  - The `#random` channel is for random (but [SFW!](https://www.acronymfinder.com/Safe-for-Work-(website-links)-(SFW).html)) stuff you just feel like sharing.
+  - The `#general` channel is for stuff that is neither coding-related nor random.
 
 [Here is the link](https://join.slack.com/t/iti202support/shared_invite/zt-czj9mv8w-X0KMejSfNN3wOyeEvBPZyA) to join the 202 Support Slack.
 
@@ -24,23 +24,23 @@
 - [What are the Benefits of APIs?](https://www.programmableweb.com/news/what-are-benefits-apis/analysis/2015/12/03)
 - Read why [It's the End of the API Economy As We Know It](https://www.programmableweb.com/news/its-end-api-economy-we-know-it/analysis/2018/07/05)
 
-#### Part 1: Lecture and Q&A
+### Part 1: Lecture and Q&A
 
-To give us some time to get settled in to this new environment I'll just post a couple of short coding videos, below.
+To give us some time to get settled in to this new environment I'll just do "part 2" (below) which will cover the Twitter API and will assume you have completed the reading above.
 
-#### Part 2: Coding and Q&A
+### Part 2: Coding and Q&A
 
 - Reddit (review)
 - Setting up Python to access the Twitter API
 
-#### Do this before the end of the week
+### Do this before the end of the week
 
 - Create a Twitter account to use for class. You _can use an existing account_ if you want to -- you won't have to post anything to Twitter unless you decide on doing a project that posts things to Twitter (e.g., creating a Twitter bot.)
 - Complete the weekly self-assessment questions.
 - Post your questions to the Slack Q&A channel.
 - Prepare for next week.
 
-#### Other items and extra resources
+### Other items and extra resources
 
 Twitter Resources
 
