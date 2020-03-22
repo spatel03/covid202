@@ -2,7 +2,7 @@
 
 ## What To Do This Week
 
-### Before you watch the first weekly video:
+### Before you watch the first weekly video
 
 **Read closely the [README page](README.md).** It describes some important details about how we will complete this class. Bookmark the page so you have quick and easy access to it.
 
@@ -35,7 +35,7 @@ To give us some time to get settled in to this new environment I'll just do "par
 
 ### Do this before the end of the week
 
-- Create a Twitter account to use for class. You _can use an existing account_ if you want to -- you won't have to post anything to Twitter unless you decide on doing a project that posts things to Twitter (e.g., creating a Twitter bot.)
+- [Create a Twitter account to use for class.](https://twitter.com/i/flow/signup) You _can use an existing account if you want_ -- you won't have to post anything to Twitter unless you decide on doing a project that posts things to Twitter (e.g., creating a Twitter bot.)
 - Complete the weekly self-assessment questions.
 - Post your questions to the Slack Q&A channel.
 - Prepare for next week.
