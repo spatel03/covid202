@@ -10,8 +10,10 @@
 
 - Official class announcements will be posted to Slack and will also be sent via email.
 - Office hours (for class and for meeting with me as Program Director) will be hosted in Slack, but there will also be a video conferencing platform for times where you want to chat with audio/video capabilities.
-  - The space is set up with three default channels:
-  - The `coding-qa` channel is for coding-related Questions and Answers. This can be class-related, but it doesn't strictly have to be.
+
+The space is set up with three default channels:
+
+      - The `coding-qa` channel is for coding-related Questions and Answers. This can be class-related, but it doesn't strictly have to be.
   - The `#random` channel is for random (but [SFW!](https://www.acronymfinder.com/Safe-for-Work-(website-links)-(SFW).html)) stuff you just feel like sharing.
   - The `#general` channel is for stuff that is neither coding-related nor random.
 
