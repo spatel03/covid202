@@ -14,7 +14,7 @@ redditdata = requests.get(url, headers=head).json()
 # listings on Reddit -- the stuff we're really interested in.
 
 # You probably don't need to change this.
-listings = results['data']['children']
+listings = redditdata['data']['children']
 
 # This is the iteration step that finally makes something appear! This is a
 # "for loop" that FOR EACH item in the listings object that you created above
