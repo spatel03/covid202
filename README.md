@@ -11,7 +11,7 @@ This page contains some important details about how we will complete our semeste
 
 ### What Will We Do Each Week, and When?
 
-Here is the plan of action for _what you will do and what I_ will do_ each week for the rest of the semester:
+Here is the plan of action for _what you will do and what I will do_ each week for the rest of the semester:
 
 | Step | Who | When                                                 | What to do                                                                                                                                                                                                                 |
 |:-----|:----|:-----------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -22,7 +22,17 @@ Here is the plan of action for _what you will do and what I_ will do_ each week 
 | 5    | You | Before the weekend begins                            | Follow along with the coding exercise video. You should add to your notes and questions during this exercise.                                                                                                              |
 | 6    | You | After watching both videos                           | Complete the coding exercise and "self-study questions" for this week. This will include the opportunity to post questions that came up at any point during the week.                                                      |
 
-**Does this mean I have to do work all week? My class was only on \[insert day\].** The timing and structure described above should make it reasonable to stretch out the work across multiple days if you'd like to do that. Or, you can wait until I've complete step 4 -- at that point you'll have all the material you need to do the week's work on a single day.
+### Class meetings
+
+**Does this mean I have to do work all week? My class was only on \[insert day\].** The timing and structure described above should make it reasonable to stretch out the work across the time you would normally spend in two class sessions, plus time spent on studying and homework. Or you can wait until I've completed step 4 -- at that point you'll have all the material you need to do the week's work on a single day.
+
+**When will we have class meetings?** There will be no mandatory real-time class meetings.
+
+**If we're not have class meetings, how can we get one-on-one help?** Any one of three ways:
+
+1. During [week 10](week-10.md) you will sign up for a Slack workspace and you can always post a message there.
+2. During your regularly-scheduled class times I will be in Slack for real-time chat and audio/visual chat through Webex.
+3. From 8am to 9am and 8pm to 9pm Monday through Thursday I will be on Slack for real-time chat and to respond to messages that you may have posted while I was away.
 
 ### How will grades be calculated?
 
@@ -47,9 +57,7 @@ Here is the updated grading calculation for the class.
 
 **Content-wise, what will be different in this version of the class?** The original plan for weeks 10-15 was to get you prepared to do a final project that uses Python to process data from the Web. That is still the goal! The difference is that there will be fewer major new concepts (e.g., UML and custom object- and data-modeling) and I have downsized the project and the remaining topics accordingly.
 
-**Are there any real-time class meetings?** Nope.
-
-**Will you be available in real time at all?** Absolutely, yes. You can always post to Slack and I'll respond when I'm available. I will also post a schedule of office hours, including times that overlap with our original class meeting times.
+**Will you be available in real time at all?** Absolutely, yes. You can always post to Slack and I'll respond when I'm available, and there are "office hours" listed above.
 
 **What about all the stuff in Canvas?** I left most of the Canvas material in the state it was in before Spring Break. Mostly I did this to preserve material that you might want to go looking for later.
 
