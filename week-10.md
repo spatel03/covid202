@@ -10,6 +10,7 @@
 
 - Official class announcements will be posted to Slack and will also be sent via email.
 - Office hours (for class and for meeting with me as Program Director) will be hosted in Slack, but there will also be a video conferencing platform for times where you want to chat with audio/video capabilities.
+- The workspace is set up for "Do Not Disturb" mode between 10pm and 8am. You should also [adjust your notifications](assets/slack-preferences.png) according to your own preferences.
 
 The space is set up with three default channels:
 
