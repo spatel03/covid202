@@ -9,6 +9,10 @@ This page contains some important details about how we will complete our semeste
 - [Week 14](week-14.md) (Starting Apr 20): Project and Problems: Bringing it All Together
 - [Week 15 and beyond](week-15-and-beyond.md) (Starting Apr 27): Project Summaries, Wrap Up and Final Project.
 
+The videos will be posted and linked to from their respective weeks and they will all be [added to this playlist](https://www.youtube.com/playlist?list=PLIIeu_TZ4vklSghlAxbfyHeBQGl6BvyRe) as they are posted. There may be a delay in the high-definition version of the videos appearing.
+
+You can also download the videos (e.g., for offline viewing) [from this directory.](https://rutgersconnect-my.sharepoint.com/:f:/g/personal/wa128_comminfo_rutgers_edu/ElF6Dgb0YRxJt8mEZQ94YvEBGfwSKuDHMgqwF8RxBUg96A?e=1BFu8k)
+
 ### What Will We Do Each Week, and When?
 
 Here is the plan of action for _what you will do and what I will do_ each week for the rest of the semester:
