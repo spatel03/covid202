@@ -2,16 +2,21 @@
 
 ## What To Do This Week
 
-### Before you watch the first weekly video
+### Part 1
 
-### Part 1: Lecture and Q&A
+Video lectures:
 
-### Part 2: Coding and Q&A
+### Part 2
+
+Video lectures:
 
 ### Do this before the end of the week
 
-- Complete the weekly self-assessment questions.
-- Post your questions to the Slack Q&A channel.
-- Prepare for next week.
+Post your questions to the Slack Q&A channel.
+
+Complete the weekly self-assessment, posted in Canvas:
+
+  - [Section 3](https://rutgers.instructure.com/courses/40197/assignments/700981)
+  - [Section 4](https://rutgers.instructure.com/courses/40200/assignments/700994)
 
 ### Other items and extra resources

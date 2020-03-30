@@ -13,10 +13,10 @@ This page contains some important details about how we will complete our semeste
 
 **Videos?** They will be posted and linked to from their respective weeks and they will all be [added to this playlist](https://www.youtube.com/playlist?list=PLIIeu_TZ4vklSghlAxbfyHeBQGl6BvyRe) as they are posted. There may be a delay in the high-definition version of the videos appearing.  You can also download the videos (e.g., for offline viewing) [from this directory.](https://rutgersconnect-my.sharepoint.com/:f:/g/personal/wa128_comminfo_rutgers_edu/ElF6Dgb0YRxJt8mEZQ94YvEBGfwSKuDHMgqwF8RxBUg96A?e=1BFu8k)
 
-**Self-assessment questions/worksheets?** These will be posted to Canvas and submitted there, so when they are ready (roughly mid-week of each week) they will be available in you Canvas Assignments:
+**Self-assessment assignments?** These will be posted to Canvas and submitted there, so when they are ready (roughly mid-week of each week) they will be available in you Canvas Assignments:
 
 - [Section 3](https://rutgers.instructure.com/courses/40197/assignments)
-- [Section 4](https://rutgers.instructure.com/courses/40200)
+- [Section 4](https://rutgers.instructure.com/courses/40200/assignments)
 
 **Code examples/starter files?** When they are posted, they will be in the [code-for-students directory](https://github.com/warrenallen/covid202/tree/master/code-for-students) in Github.
 
