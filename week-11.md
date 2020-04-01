@@ -31,7 +31,9 @@ Part 2 focuses on storing raw and transformed data in a local database. Do this 
 
 Video lectures:
 
-- Loading raw and processed data into a database.
+- [Introduction](https://youtu.be/xN6LFdfr6NU)
+- [Exercise 1: CSV](https://youtu.be/AbUONTYe3IU)
+- [Exercise 2: PickleDB](https://youtu.be/avFH48pSiKc)
 
 ### Do this before the end of the week
 
