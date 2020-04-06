@@ -29,10 +29,10 @@ def transform(tweet):
 
 
 twconfig = {  # Twitter API configuration
-    'api_key': "FOzwIQ8JD0WnqnSE3w2x4Fw99",
-    'api_secret': "HRLsRUPcVneIpsXiZaC50pJ4zMbRPYY4vmWSgXryZHj9vRQo1w",
-    'access_token': "16450742-pCmhIMf0Q98uuzk1cwsHtyxqrKlhAaW7gJbOIfDiH",
-    "access_secret": "jaTAwTstKDz1HRIQNWvq0UlGqBodVlNsY0CtiNfx10ZhC"
+    'api_key': "",
+    'api_secret': "",
+    'access_token': "",
+    "access_secret": ""
 }
 
 # Tweepy setup
