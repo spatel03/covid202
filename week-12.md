@@ -12,12 +12,12 @@ No video lectures for Part 1 of this week. Instead:
 
 It won't be "set in stone" but you will be expected to have your project idea decided to a certain degree of confidence by the end of this week. Trust me when I say it's best to spread this work out over the next few weeks; not because it's a lot of work (although it will be if you leave it all to Finals Week) but because there are many opportunities to run into unanticipated problems for which you need to seek assistance.
 
-### Part 2: Tweepy and PRAW
+### Part 2: Tweepy
 
 Video lectures:
 
-- Tweepy
-- PRAW
+- Using Tweepy to extract Twitter data
+- Considerations when collecting Twitter data
 
 ### Do this before the end of the week
 
