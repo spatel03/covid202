@@ -16,8 +16,10 @@ It won't be "set in stone" but you will be expected to have your project idea de
 
 Video lectures:
 
-- Using Tweepy to extract Twitter data
-- Considerations when collecting Twitter data
+- [202 Week 12 Part 2B: What are API keys?](https://youtu.be/8vhdu8Q0zN0)
+- [202 Week 12 Part 2B: Twitter API keys](https://youtu.be/qA5Eog7N9SQ)
+- [202 Week 12 Part 2C: Tweepy setup](https://youtu.be/_F0ohRG4jkE)
+- [202 Week 12 Part 2D: Using Tweepy to get data](https://youtu.be/LKZsnvpIjBU)
 
 ### Do this before the end of the week
 
