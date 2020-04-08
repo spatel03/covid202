@@ -16,8 +16,8 @@ It won't be "set in stone" but you will be expected to have your project idea de
 
 Video lectures:
 
-- [202 Week 12 Part 2B: What are API keys?](https://youtu.be/8vhdu8Q0zN0)
-- [202 Week 12 Part 2B: Twitter API keys](https://youtu.be/qA5Eog7N9SQ)
+- [202 Week 12 Part 2A: What are API keys?](https://youtu.be/qA5Eog7N9SQ)
+- [202 Week 12 Part 2B: Twitter API setup](https://youtu.be/8vhdu8Q0zN0)
 - [202 Week 12 Part 2C: Tweepy setup](https://youtu.be/_F0ohRG4jkE)
 - [202 Week 12 Part 2D: Using Tweepy to get data](https://youtu.be/LKZsnvpIjBU)
 
@@ -27,3 +27,4 @@ Complete the weekly self-assessment, posted in Canvas:
 
   - [Section 3](https://rutgers.instructure.com/courses/40197/assignments/700979)
   - [Section 4](https://rutgers.instructure.com/courses/40200/assignments/700989)
+M
