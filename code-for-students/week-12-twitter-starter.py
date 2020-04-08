@@ -5,8 +5,8 @@ import csv
 import pprint
 
 
-def pprint(obj):
-    """docstring"""
+def prnt(obj):
+    """Retuns a pretty-printed version of an object."""
     pp = pprint.PrettyPrinter(indent=2)
     try:
         return(pp.pprint(obj))
@@ -15,7 +15,10 @@ def pprint(obj):
 
 
 def extract(query):
-    """docstring"""
+    """Returns results from a Twitter search.
+    
+    Accepts one argument: the query (as a string object) to use to search Twitter."""
+    
     if not isinstance(query, str):
         return None
     else:
@@ -23,12 +26,7 @@ def extract(query):
         return results
 
 
-def transform(tweet):
-    """docstring"""
-    # What do you want to do with your Tweet?
-
-
-twconfig = {  # Twitter API configuration
+twconfig = {  # Twitter API configuration: Enter credentials here!
     'api_key': "",
     'api_secret': "",
     'access_token': "",
