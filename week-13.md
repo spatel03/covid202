@@ -17,7 +17,7 @@ Remember, the [instructions for the final are here](https://github.com/warrenall
 
 Also, I post a short video for those of you who might find this beneficial:
 
-- Reddit PRAW setup
+- [Reddit PRAW setup](https://youtu.be/Vv5W4mrmUpM) (12 min.)
 
 ### Part 2: The Load Step
 
