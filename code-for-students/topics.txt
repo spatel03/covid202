@@ -1,0 +1,77 @@
+Using data collected from Twitter or Reddit, I can analyze which content or posts that have been made since March 2020 include the phrases “social distancing” or “self-isolation.”
+An idea I was considering, though I'm uncertain if it's a good one, would be to take the topic, Cats, and using data from both Reddit and Twitter to determine which site has the most interaction in regard to topics about cats.
+Using data collected from Twitter, I will analyze where in the US the most tweets take place and create a ranking list.
+Using data from Reddit, I would like to analyze the differences in how different countries are handling the Covid-19 pandemic.
+Using Twitter’s API, I could analyze the trending page for the most used words.
+Using data collected from Reddit, I will compile and analyze the most common issues reported in the bug threads of the game League of Legends.
+By collecting data from twitter, I will analyze hashtags to gain an understanding of people’s views and preferences for the upcoming November presidential election.
+I would want to use data collected from reddit to see what anime categories generate the most engagement among fans.
+Using data collected from Reddit, I can analyze the popularity through Net (Upvotes/Downvotes) the most popular news posts about the Covid-19 epidemic.
+Using data I collected from Reddit, I will analyze a Rutgers subreddit to determine how many students will benefit from the Rutgers co-vid reimbursement plan.
+Using data collected from Twitter, I will analyze the different hashtags and media content associated with H2Oi.
+Using data collected from Reddit, I will view the posts with the highest amount of upvotes on /r/aww.
+Using data collected from YouTube, I will analyze the algorithm it uses to recommend videos.
+An idea for a project that can be done is using Twitter to look at trending hashtags of fake news for future political gains.
+My idea about an idea using Twitter API: a web application that allows users to get a frequency of a specific word or phrase used by a specific twitter user at any time period. e.g. I want to know how many times President Trump has used the word  huge  last week.
+A project idea that could be done with Twitter data, could be to gather all the hashtags used in the trending feed page to see what information or data is currently trending.
+Use a subreddit to pull and label large datasets to use for image classifier training. This would be useful for training a classifier on more obscure or uncommon objects that don’t have large existing labeled image training sets.
+Using data from twitter, I want to research on creating a ranking list that shows which month or day the most tweets take place.
+An example for a reddit project I thought of was using data collected from the sneakers sub reddit to see which postings include key brands like “nike”, “jordan”, “adidas”, etc and see which brands get more up votes to determine the most popular brand
+An idea for a Reddit or Twitter project would be to take information on pictures used in posts and assign them tags. I would probably take the image, than search by image on google and see what comes up and then assign them tags.
+I will be using the data collected from Reddit to create a ranking of tweets in which people argue about who is the best kpop group.
+Using data collected from Reddit, I will analyze hashtags relating to positive and negative associations with COVID19.
+There are some twitter accounts that often post about video game sales and offers that are useful for getting some games at a great value. They post about any and every game that get some sort of price decrease, however, so a useful program might be to look for sales for specific games, peripherals, or systems at specific price points (e.g., Nintendo Switch at less than or equal to $220) and notify me for those specific sales only.
+I will collect data from Twitter and analyze various hashtags used in connection with e-cigarettes to analyze how people respond to using e-cigarettes.
+An example project is using data collected from twitter to analyze the top songs or most popular songs on an album based on the amount of hashtags it gets.
+Using data collected from twitter, what is the most popular emoji used with hashtags related to Donald Trump
+By using the data I collect from Twitter, I will use the different hashtags used for soccer to see how that affects the way users/fans get their soccer news for soccer clubs around the world.
+A project idea I had was to use a certain hashtag and then to find out other hashtags that are popularly paired with it. For example if I were to choose #baseball, then another common hashtag would probably be #MLB.
+Using data collected from reddit I will use the news subreddit to see how many articles about not corona have over a certain amount of upvotes.
+Using data collected from Reddit, I will analyze the popularity of Zoom memes in relation to taking college courses online this semester.
+Using data collected from Twitter, I will analyze the different hashtags used related to the quarantine/ epidemic.
+Using hashtag data from previous Twitter posts, I will make suggestions on which hashtags to use on a tweet, based on the context, to gain the most traction.
+One idea I have for a project is using the Twitter API in conjunction with the Reddit API to aggregate the posts and tweets that reference the words  unknown pneumonia  or  unknown virus . Using this data may provide a hint to when COVID-19 actually started
+An idea for an API would be examining the controversial comments on controversial Reddit posts in subreddits like r/news to see which subreddits the users typically post in. I believe that there could be a pattern of behavior that can be attributed from the types of negative comments.
+While I do not know specifically what information will be grabbed from Reddit through the API, I would like to maybe look at the statistics of posts with regards to how many comments/upvotes it has and it’s position on the front page?
+Using data collected from Reddit, I will analyze the topics and keywords used related to helpful job interview skills and techniques.
+I think a cool project that could be done is analyzing Twitter in what kind of terminology(positive, negative, downplaying, overblown, etc) were used to describe public response of COVID-19 pandemic.
+Using the data from the Rutgers Subreddit, I will analyze the trends of different topics of posting a few months before and time after the initial Coronavirus scare.
+Using data collected from Twitter, I will analyze which day of the week had more tweets posted. I want to try to analyze which day of the week has the most tweets because I want to see if there’s any correlation to what’s going on in their environment or if it’s just common that people post the most on “x” day.
+Using data collected from Twitter, I will analyze the differences in tweets that are in response to crises such as Covid-19 epidemic and how it changes over time as it goes from a small problem to something as big as it is currently. I would like to compare it to another crisis and see if there are differences based on the crisis.
+By using twitter for example, I can go collect new information by going on trending bar and see tweets and tags about Covid-19 epidemic and see what is happening. Reddit could also be a good tool to use to see insights on those that have been affected personally or knows someone and see what they have to say about it.
+Using data collected from Twitter, I will analyze the different hashtags used related to the Covid-19 epidemic.
+Using data from Reddit or twitter, I will analyze and figure out what people do as hobbies as most people are quarantined inside their homes. I will find out and make a list of what people do inside their homes and try to incorporate some of the popular hobbies into my lifestyle.
+An idea for a Twitter project would be analyzing the different hashtags used related to Trump’s presidency.
+For my project, I was thinking of creating a program that either tracks New York Jets news via reddit or twitter. I figure with the NFL draft coming up soon there will be tons of potential posts to track as the volume of football related posts will likely increase.
+Using data collection from Twitter, I will analyze the different hashtags used related to the 2020 presidential elections.
+I feel like it would be interesting to use geo-referenced tweets to track a certain topic and see where it is mainly being tweeted about around the world. For example if the topic said is the new Animal Crossing game. Seeing which locations in the world have the most people tweeting about AC would be interesting.
+First, using Data collected from Reddit, I will analyze the comment and rating post about Rutgers’s Professors.
+Second, using data collected from Twitter, I will analyze the reports posted on Twitter related to Telsa autopilot accident.
+Using the Data Collected from Twitter I might be able to map or create a chart or some statistics which displays the most active day a certain hashtag was used, so for instance since December till current day which weeks had the highest tweets mentioning COVID 19 or Corona
+Using Twitter data, take the most popular hashtags (top 50) and see how popular they are by region. In other words, map out the places in the U.S. where these hashtags are used the most.
+Using data collected from a finance Reddit forum I will analyze which stocks are mentioned most.
+Using data from Twitter/Reddit to see what individuals are discussing about managing mental health amidst the COVID-19 pandemic using keywords, hashtags, and [reddit application] looking at different subreddits.
+A project idea that I have is collecting data from twitter and examining different tweets to see how people around the country are reacting to the quarantine.
+Using data collected from Reddit, I will analyze posts containing data about COVID-19 death tolls.
+I want to look at reddit posts and see if there is any correlation between titles, time posted and the number of upvote something gets. Essentially ignoring the content.
+Using data collected from Reddit or Twitter, I will analyze the most popular games out on the market.
+With data extracted from Twitter, I could create a visualization on what certain hashtags related to presidential candidates say about a macro view of a particular candidate or candidates
+I believe that a group project on Twitter finding out how individuals affected by Covid-19 are handling their situations via hashtags would be an interesting but difficult proposal.
+Using data collected from Reddit, I will analyze which breed is the most popular in r/dogpictures.
+Collecting data from Instagram, we can analyze the different #coronaparty hashtags used during this epidemic, to collect some statistics on the number of users who are not following the guidelines by the states and the federal government/ CDC
+Using data collected from Twitter, I will analyze different hashtags related to the check stimulus issues by Donald Trump.
+Using data collected on Twitter, I will track the growth of travel-related hashtags during the current time, as prices to travel have dropped during this pandemic.
+By collecting data from Twitter, we will be able to analyze how many people tweeted about covid19 with media attached to them.
+Using data on twitter, I will analyze hashtags on Twitter and Facebook about #MeToo movements and events circulating the movement.
+Using hashtags from twitter I want to analyze the character length of trending hashtags in order to see what the optimal character length is to get a hashtag trending.
+Using data collected from twitter, I will see how many times people use the word “like” when tweeting about the Kardashians.
+Using data collected from Twitter, I will analyze hashtags related to the Black Lives Matter Movement.
+Using data collected from Twitter, I will analyze the different hashtags used related to the Covid-19 epidemic.
+Using data collected from Twitter, I will analyze the number of mentions about Coronavirus coverage compared to the number of other/general news coverage.
+Using reddit  I will be collecting data such as how many people in the world are facing the same situation or going through the same thing using key words.
+Using data collected from Reddit, I will analyze the different key terms that users are using on which part of their life this pandemic is affecting the most. It can affect personal life, economy, work-life, and everyday tasks (gym, grocery shopping).
+Using data collected from Twitter, I will analyze tweets/hashtags regarding 2020 elections and the respective age group of those tweets.
+Using data collected from Reddit, I will analyze different subreddits to see all positive news about Rutgers
+Using data collected from Twitter, I will analyze how many different hashtags used related to “Funny mud pee”
+Using Reddit data, I will compile the most recommended metal songs and organize them into bands and sub-genres.
+An idea that I have for the project is using data from Twitter to examine the trends regarding the NBA and MLB season during this crisis.
