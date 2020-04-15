@@ -23,8 +23,12 @@ Also, I post a short video for those of you who might find this beneficial:
 
 There are many ways you might do the "load" step in a Data ETL project. I will post some lecture material about a few Python packages that are very popular for this kind of work.
 
-- The Python package ecosystem.
-- Python plotting packages.
+- [Part 1: Answering Questions with Data (7 min.)](https://youtu.be/F03W_ppV6MU)
+- Text analysis with TextBlob.
+  - **Everyone should watch this despite what I said at the end of the first video.** This week's content is already long enough, and maybe we won't require Seaborn for your project after all. So, the following TextBlob videos treat Microsoft Excel as the destination for your "Loading" ETL step instead of another Python module like Seaborn. Excel will be an acceptable alternative to Seaborn for this semesters' projects.
+  - [Part 2 (10 min.)](https://youtu.be/R36oWmRZqqA)
+  - [Part 4 (10 min.)](https://youtu.be/Xz_oh2sCoKo)
+  - [Part 5 (13 min.)](https://youtu.be/idUA01v-wus)
 
 ### Do this before the end of the week
 
@@ -39,5 +43,5 @@ Complete the weekly self-assessment, posted in Canvas:
 
 - The [Python Package Index](https://pypi.org/) (PyPI).
 - The [top PyPi](https://hugovk.github.io/top-pypi-packages/) packages.
-- The [textblob](textblob.readthedocs.io/) package for processing text data.
+- The [textblob](http://textblob.readthedocs.io/) package for processing text data.
 - The [Seaborn](https://seaborn.pydata.org/) data visualization library based on [matplotlib](https://matplotlib.org/).
