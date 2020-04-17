@@ -32,12 +32,8 @@ There are many ways you might do the "load" step in a Data ETL project. I will p
 
 ### Do this before the end of the week
 
-Post your questions to the Slack Q&A channel.
-
-Complete the weekly self-assessment, posted in Canvas:
-
-  - [Section 3](https://rutgers.instructure.com/courses/40197/assignments/700980)
-  - [Section 4](https://rutgers.instructure.com/courses/40200/assignments/700993)
+- Post your questions to the Slack Q&A channel.
+- Work on your final project code.
 
 ### Other items and extra resources
 
