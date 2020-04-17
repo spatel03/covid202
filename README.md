@@ -11,6 +11,8 @@ This page contains some important details about how we will complete our semeste
 
 ### Where are the...
 
+**Sign-ups for one-on-one meetings?** Here: [calendly.com/wrrn](https://calendly.com/wrrn). If there is no time available that works for you, send me a message through Slack.
+
 **Instructions for the final project?** The final project is described [here.](https://github.com/warrenallen/covid202/blob/master/final-project.md) The document will be updated as we go, so it will not reflect the full project until around week 14.
 
 **Videos?** They will be posted and linked to from their respective weeks and they will all be [added to this playlist](https://www.youtube.com/playlist?list=PLIIeu_TZ4vklSghlAxbfyHeBQGl6BvyRe) as they are posted. There may be a delay in the high-definition version of the videos appearing.  You can also download the videos (e.g., for offline viewing) [from this directory.](https://rutgersconnect-my.sharepoint.com/:f:/g/personal/wa128_comminfo_rutgers_edu/ElF6Dgb0YRxJt8mEZQ94YvEBGfwSKuDHMgqwF8RxBUg96A?e=1BFu8k)
