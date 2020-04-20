@@ -1,12 +1,38 @@
 # The Online-202 Final Project
 
-This document describes the final project that you will do in the "emergency online" version of 202. **The document will be updated as we go, so it will not reflect the full project until around week 14.**
+This document describes the final project that you will do in the "emergency online" version of 202. At the end, you will submit the following:
 
-To give you an idea of where this goes so that you can start your project planning right away, the final project will consist of three components:
+**One Markdown document containing the following:**
 
-1. The description of your project; specifically, the question you are using as the basis of your project, and the data you will use to answer the question.
-2. A recorded walkthrough of the code you wrote as if you were presenting it to an interviewer for a job. An example and instructions will be posted.
-3. The code itself, including informative in-code commenting.
+1. A description of your project; specifically, the question you are using as the basis of your project, and the data you will use to answer the question.
+2. A walkthrough of the code you wrote as if you were preparing it for an online portfolio of your work.
+3. A summary of your results.
+4. Some thoughts about what you would do next if this were a real-world project.
+3. The complete script itself, minus any API key values.
+
+**One video that confirms that your code executes successfully.** Why? There can be situations where a student's code runs in their environment but it does not run in mine. It will be too late to figure out what is wrong when I discover this issue. Therefore, as a safety measure, you must do a screen-recording of your code executing successfully. _The video does not have to be "professional" or "polished" it just has to be clear that it is your code and that it executes successfully._
+
+**The actual script.** Name the file according to the following naming convention:
+
+- firstnamelastname.py.txt (e.g., _warrenallen-final.py.txt_)
+
+## How to submit your final project
+
+Watch these videos for demonstrations of how to create the required document.
+
+- [Final project report 1](https://youtu.be/tqTnlkiEOac)
+- [Final project report 2](https://youtu.be/3Hb2Pi3TGJc)
+- [Final project report 3](https://youtu.be/wka9LEhUaDA)
+
+You will use these resources (described in the videos) to complete the final project report.
+
+- [Carbon](https://carbon.now.sh)
+- [StackEdit](https://stackedit.io)
+- [imgbb.com](imgbb.com) or a comparable image hosting platform
+- The final project report [markdown template](./final-report-md-template.md)
+
+
+---
 
 ## Recommended Packages/Data Sources
 

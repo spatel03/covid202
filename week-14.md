@@ -2,21 +2,10 @@
 
 ## What To Do This Week
 
-### Part 1
+- Consider making an appointment with me to discuss your project: [calendly.com/wrrn](https://calendly.com/wrrn)
+- Finish your Data ETL code.
+- Confirm that you know what you need to do to complete your [final project](final-project.md) successfully.
 
 Video lectures:
 
-### Part 2
-
-Video lectures:
-
-### Do this before the end of the week
-
-Post your questions to the Slack Q&A channel.
-
-Complete the weekly self-assessment, posted in Canvas:
-
-  - [Section 3](https://rutgers.instructure.com/courses/40197/assignments/700981)
-  - [Section 4](https://rutgers.instructure.com/courses/40200/assignments/700994)
-
-### Other items and extra resources
+- See the [final project](final-project.md) for videos about how to prepare your final project for submission.
