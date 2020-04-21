@@ -1,0 +1,115 @@
+{
+  '_id': ObjectId('5e8ee7bf3fd06a888130e569'),
+  'created_at': 'Mon Feb 17 00:12:17 +0000 2020',
+  'id': 1229196836038201346,
+  'id_str': '1229196836038201346',
+  'full_text': "Why are children 'missing' from coronavirus outbreak cases? SEE DETAILS AT ==&gt; https://t.co/ExRXxOMIe1 #virus #coronavirus #sars #flu #china #trump https://t.co/CHEQ3YUrN0",
+  'truncated': False,
+  'display_text_range': [0, 174],
+  'entities': {
+    'hashtags': [{
+      'text': 'virus',
+      'indices': [106, 112]
+    }, {
+      'text': 'coronavirus',
+      'indices': [113, 125]
+    }, {
+      'text': 'sars',
+      'indices': [126, 131]
+    }, {
+      'text': 'flu',
+      'indices': [132, 136]
+    }, {
+      'text': 'china',
+      'indices': [137, 143]
+    }, {
+      'text': 'trump',
+      'indices': [144, 150]
+    }],
+    'symbols': [],
+    'user_mentions': [],
+    'urls': [{
+      'url': 'https://t.co/ExRXxOMIe1',
+      'expanded_url': 'http://BRAVERESPONSEHOLSTER.vuhere.com',
+      'display_url': 'BRAVERESPONSEHOLSTER.vuhere.com',
+      'indices': [82, 105]
+    }, {
+      'url': 'https://t.co/CHEQ3YUrN0',
+      'expanded_url': 'https://youtu.be/jCBS0LDLmBU',
+      'display_url': 'youtu.be/jCBS0LDLmBU',
+      'indices': [151, 174]
+    }]
+  },
+  'source': '<a href="http://www.akidthaine.com" rel="nofollow">Clickclickme</a>',
+  'in_reply_to_status_id': None,
+  'in_reply_to_status_id_str': None,
+  'in_reply_to_user_id': None,
+  'in_reply_to_user_id_str': None,
+  'in_reply_to_screen_name': None,
+  'user': {
+    'id': 306127388,
+    'id_str': '306127388',
+    'name': 'All Express News',
+    'screen_name': 'bitcoinconnect',
+    'location': '',
+    'description': '',
+    'url': 'https://t.co/UjLBbbUkkW',
+    'entities': {
+      'url': {
+        'urls': [{
+          'url': 'https://t.co/UjLBbbUkkW',
+          'expanded_url': 'http://www.allexpressnews.com',
+          'display_url': 'allexpressnews.com',
+          'indices': [0, 23]
+        }]
+      },
+      'description': {
+        'urls': []
+      }
+    },
+    'protected': False,
+    'followers_count': 1035,
+    'friends_count': 0,
+    'listed_count': 260,
+    'created_at': 'Fri May 27 10:13:30 +0000 2011',
+    'favourites_count': 22,
+    'utc_offset': None,
+    'time_zone': None,
+    'geo_enabled': True,
+    'verified': False,
+    'statuses_count': 249505,
+    'lang': None,
+    'contributors_enabled': False,
+    'is_translator': False,
+    'is_translation_enabled': False,
+    'profile_background_color': 'C0DEED',
+    'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png',
+    'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png',
+    'profile_background_tile': False,
+    'profile_image_url': 'http://pbs.twimg.com/profile_images/858298493584199680/qwzcZz4K_normal.jpg',
+    'profile_image_url_https': 'https://pbs.twimg.com/profile_images/858298493584199680/qwzcZz4K_normal.jpg',
+    'profile_link_color': '1DA1F2',
+    'profile_sidebar_border_color': 'C0DEED',
+    'profile_sidebar_fill_color': 'DDEEF6',
+    'profile_text_color': '333333',
+    'profile_use_background_image': True,
+    'has_extended_profile': False,
+    'default_profile': True,
+    'default_profile_image': False,
+    'following': False,
+    'follow_request_sent': False,
+    'notifications': False,
+    'translator_type': 'none'
+  },
+  'geo': None,
+  'coordinates': None,
+  'place': None,
+  'contributors': None,
+  'is_quote_status': False,
+  'retweet_count': 0,
+  'favorite_count': 0,
+  'favorited': False,
+  'retweeted': False,
+  'possibly_sensitive': False,
+  'lang': 'en'
+}
