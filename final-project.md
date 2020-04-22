@@ -31,7 +31,18 @@ You will use these resources (described in the videos) to complete the final pro
 - [imgbb.com](imgbb.com) or a comparable image hosting platform
 - The final project report [markdown template](./final-report-md-template.md)
 
+## Having trouble getting data? Want to reconsider your plans for the final project?
 
+Once students really start working on their project, many realize that they waited too long to collect the data they need or that the data they thought they could retrieve cannot actually be retrieved. If you're in this situation -- or if you'd just rather change your research question to make use of this data -- you might consider using the COVID-19 Twitter dataset described below.
+
+I've been collecting Tweets related to the COVID-19 pandemic since late January. I am making available to you a sample of that database for your project. There are a total of 1 million tweets (out of roughly 15 million) in this database. You can use this as a data source instead of the Twitter API, but the rest of the project (e.g., transforming and loading the Tweets) is the same as if you got the Tweets from directly from Twitter.
+
+You'll need some starter code and a little bit of instruction. Here it is:
+
+- [Video: How to access Dr. Allen's COVID-19 Tweets DB](https://youtu.be/ZgXeWvh6Nio)
+- [Starter code](code-for-students/coviddb.py) (password for DB is in the video)
+- [One example Tweet](code-for-students/example-tweet.txt)
+- [One example Retweet](code-for-students/example-tweet.txt)
 
 ---
 
