@@ -16,6 +16,8 @@ This document describes the final project that you will do in the "emergency onl
 
 - firstnamelastname.py.txt (e.g., _warrenallen-final.py.txt_)
 
+Submit the materials through the `Final Project` assignment on Canvas.
+
 ## How to submit your final project
 
 Watch these videos for demonstrations of how to create the required document.
@@ -43,6 +45,20 @@ You'll need some starter code and a little bit of instruction. Here it is:
 - [Starter code](code-for-students/coviddb.py) (password for DB is in the video)
 - [One example Tweet](code-for-students/example-tweet.txt)
 - [One example Retweet](code-for-students/example-tweet.txt)
+
+## This is not a rubric
+
+This is not a grading rubric, but you may treat it like one. It should give you a sense of what I'll be looking at when I look at your code and report. **Remember: If your code doesn't run successfully, I won't grade anything and you'll earn a "0" for your project.** For purposes of your project, "code quality" refers mostly to how interesting and useful a given component of your code is.
+
+Grade component (points)| A-level work (95%)<BR />Work of extraordinary distinction. | B-level work (85%)<BR />Work of good to very good quality but that does not merit special distinction. | C-level work (75%)<BR />Work of adequate quality.| D-level work (65%)<BR />Work demonstrating a deficiency in knowledge of the material. | F (0%)<BR />Work deserving of no credit.
+---|---|---|---|---|---
+Code quality: Overall structure (20) | | | | |
+Code quality: Overall style (15) | | | | |
+Code quality: Extract step (25) | | | | |
+Code quality: Transformation step (50) | | | | |
+Code quality: Load step (40) | | | | |
+Report readability and aesthetics, esp. code snippet images (50) | | | | |
+Depth and quality of the project and (more importantly) code explanation (200) | | | | |
 
 ---
 
